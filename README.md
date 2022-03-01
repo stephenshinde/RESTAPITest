@@ -6,6 +6,9 @@ This project is developed with Rest Assured Libraryfor API Testing
 **Library Used** : Rest Assured , TestNG<br />
 **Build Tool** : Maven<br />
 
+## the reason behind the chosen framework and pattern:
+Rest assured is open source library and supports to Java and TestNG ramework
+
 
 ## How to Clone project:
 1. Download and Install Git from https://git-scm.com/downloads,<br />
@@ -43,3 +46,7 @@ This project is developed with Rest Assured Libraryfor API Testing
 2. com.base : base folder whicch contains base class<br />
 3. com.Utility : Reusable utility<br />
 4. testng.xml : testng executable file<br />
+
+## next possible steps for improvement:
+1. Add external Json Payload file
+2. Extent report feature
