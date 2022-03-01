@@ -41,6 +41,5 @@ This project is developed with Rest Assured Libraryfor API Testing
 
 1. com.APITests : Test cases<br />
 2. com.base : base folder whicch contains base class<br />
-3. com.Resources : Payload json file<br />
-5. com.Utility : Reusable utility<br />
-6. testng.xml : testng executable file<br />
+3. com.Utility : Reusable utility<br />
+4. testng.xml : testng executable file<br />
